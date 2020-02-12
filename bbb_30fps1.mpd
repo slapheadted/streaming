@@ -16,7 +16,7 @@
         <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
         <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
         <SegmentTemplate timescale="48000" initialization="bbc_radio_one-$RepresentationID$.dash"
-                       media="bbc_radio_one-$RepresentationID$-$Number$.m4s" startNumber="1000" duration="307200"/>
+                       media="bbc_radio_one-$RepresentationID$-$Number$.m4s" startNumber="247104000" duration="307200"/>
         <Representation id="audio=48000" bandwidth="48000"/>
         <Representation id="audio=96000" bandwidth="96000"/>
     </AdaptationSet>
